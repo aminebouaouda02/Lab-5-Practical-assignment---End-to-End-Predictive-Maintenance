@@ -1,0 +1,18 @@
+# Checkpoints and Jupyter artifacts
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large data and generated outputs from Lab 5
+data/
+fallback/
+lab5_outputs/
+spark-warehouse/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
